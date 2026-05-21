@@ -1,0 +1,50 @@
+name: Markdown Documentation Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  markdown-check:
+    name: Check public showcase documentation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify Markdown files exist
+        run: |
+          echo "Checking public showcase documentation..."
+          find . -name "*.md" -type f
+          test -f README.md
+          test -f FAQ.md
+          test -f SECURITY.md
+          test -f LICENSE.md
+
+      - name: Check for sensitive file patterns
+        run: |
+          echo "Scanning for files that should not exist in this public showcase repository..."
+
+          if find . -name ".env*" -o -name "package-lock.json" -o -name "package.json" -o -name "route.ts" -o -name "middleware.ts" -o -name "proxy.ts" | grep .; then
+            echo "Sensitive or implementation-specific files found. This public showcase must not contain app code or environment files."
+            exit 1
+          fi
+
+          if find . -path "*/app/api/*" -o -path "*/supabase/migrations/*" -o -path "*/lib/*" -o -path "*/components/*" | grep .; then
+            echo "Private implementation folders found. This repository must remain documentation-only."
+            exit 1
+          fi
+
+          echo "No sensitive implementation files found."
+
+      - name: Public showcase notice
+        run: |
+          echo "AgentFlow Enterprise public showcase documentation passed basic safety checks."
