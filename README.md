@@ -1,103 +1,115 @@
 # AgentFlow Enterprise
 
-AgentFlow Enterprise is a premium AI RevOps SaaS product presentation repository for agencies, senior developers, RevOps consultants, technical buyers, and acquisition evaluators.
+AI RevOps SaaS foundation for lead qualification, secure workflow automation, and buyer-ready technical due diligence.
 
-This repository is intentionally public-facing. It contains product positioning, buyer documentation, due diligence guidance, security posture summaries, roadmap context, and contact information. It does not contain application source code, backend logic, secrets, API routes, database schema, deployment configuration, webhook internals, checkout internals, or private implementation details.
+AgentFlow Enterprise helps agencies, SaaS founders, and RevOps teams move from disconnected lead forms and manual qualification to a structured workflow: lead intake, AI-assisted scoring, operator review, billing readiness, and CRM/integration handoff.
 
-## What It Is
+This repository is a public product showcase only. It does not contain private source code, API routes, database schema, checkout internals, webhook handlers, secrets, or sensitive implementation details.
 
-AgentFlow Enterprise is designed as an AI-assisted revenue operations platform for teams that need to turn fragmented sales, marketing, customer, and operational signals into clearer workflows, faster follow-up, and more structured execution.
+## Live Evaluation Links
 
-At a high level, the product category combines:
+| Resource | Link |
+| --- | --- |
+| Website | [agentflow-enterprise.com](https://agentflow-enterprise.com) |
+| Demo | [agentflow-enterprise.com/demo](https://agentflow-enterprise.com/demo) |
+| For Agencies | [agentflow-enterprise.com/for-agencies](https://agentflow-enterprise.com/for-agencies) |
+| For Developers | [agentflow-enterprise.com/for-developers](https://agentflow-enterprise.com/for-developers) |
+| Technical Due Diligence | [agentflow-enterprise.com/technical-due-diligence](https://agentflow-enterprise.com/technical-due-diligence) |
+| Acquisition | [agentflow-enterprise.com/acquisition](https://agentflow-enterprise.com/acquisition) |
 
-- AI-supported RevOps workflow assistance
-- Business process automation for sales and operations teams
-- Structured customer and pipeline context
-- Buyer-ready SaaS presentation and evaluation surfaces
-- Technical foundations intended for a modern, maintainable SaaS codebase
+## What AgentFlow Solves
+
+Revenue teams and service providers often lose momentum between the first lead signal and the next qualified action. AgentFlow Enterprise is positioned to reduce that gap.
+
+It addresses:
+
+- Slow lead follow-up
+- Manual qualification work
+- Disconnected forms and intake flows
+- Limited visibility between lead capture and revenue operations
+- Agencies needing a deployable AI RevOps foundation for client work
+- Buyers needing a clear, safe way to evaluate product readiness before private review
+
+## Workflow Overview
+
+Lead Intake -> AI Qualification -> Operator Review -> Billing Readiness -> CRM / Workflow Handoff
+
+This sequence is the product-level operating model. The public repository describes the model without exposing private system internals.
 
 ## Who It Is For
 
-AgentFlow Enterprise is presented for:
+| Audience | Why It Matters |
+| --- | --- |
+| Agencies | A foundation for packaging AI RevOps workflows for client delivery. |
+| SaaS Founders | A production-conscious base for turning lead qualification into a SaaS motion. |
+| RevOps Consultants | A way to structure qualification, review, and follow-up workflows. |
+| Senior Developers | A buyer-safe dossier for understanding product scope before private diligence. |
+| Technical Acquirers | A clear starting point for evaluating codebase value, readiness, and remaining validation work. |
 
-- Agencies evaluating a packaged AI RevOps offering for clients
-- Senior developers reviewing SaaS product shape and maintainability
-- RevOps consultants assessing workflow and automation fit
-- Technical buyers considering product acquisition or partnership
-- Non-technical stakeholders who need a clear explanation of product scope
+## Current Product Truth
 
-## The Problem It Solves
+AgentFlow Enterprise should be understood as a production-conscious SaaS foundation, not a revenue-validated operating company.
 
-Many RevOps teams operate across disconnected tools, inconsistent handoffs, manual follow-up, and unclear pipeline context. AgentFlow Enterprise is positioned to help teams structure that operational work through AI-assisted workflows, repeatable processes, and a cleaner product experience.
+Current public position:
 
-The product is intended to reduce ambiguity around:
+- Production-conscious codebase foundation
+- Working public demo flow
+- Buyer-readiness documentation
+- AI-assisted qualification direction
+- Protected dashboard operations at a high level
+- Supabase authentication/storage foundation
+- Stripe/PayPal checkout readiness
+- OpenAI-powered qualification flow
+- Vercel deployment posture
+- Webhook safety principles
+- SEO acquisition pages for agencies, developers, and potential acquirers
 
-- What needs attention next
-- Which workflows are ready for automation
-- Where sales or customer operations lose context
-- How teams can evaluate an AI SaaS product without needing private code access first
+Important limits:
 
-## High-Level Implementation Scope
+- Pre-revenue and not yet customer validated
+- No claim of paying customers
+- No claim of enterprise adoption
+- No SOC 2 or ISO certification claim
+- No formal penetration testing claim
+- Live provider verification is still required before commercial claims
 
-The private product codebase is understood to include a modern SaaS application foundation with buyer-facing product surfaces and AI RevOps capabilities. This showcase repository describes those capabilities only at a high level.
+## Public Documentation Map
 
-Implemented or represented at a product level:
-
-- Public product positioning
-- Buyer-oriented documentation
-- Feature and roadmap structure
-- Security posture principles
-- Technical due diligence guidance
-- Contact and acquisition evaluation paths
-
-The following items remain verification or readiness dependent and should be confirmed during a private review:
-
-- Production readiness of all operational workflows
-- Security review results
-- End-to-end payment and subscription readiness
-- Live integration behavior
-- Deployment, observability, and incident-response maturity
-- Legal, compliance, and customer data handling review
-
-## Live Links
-
-- Website: [https://agentflow-enterprise.com](https://agentflow-enterprise.com)
-- Demo: [https://agentflow-enterprise.com/demo](https://agentflow-enterprise.com/demo)
-- Acquisition inquiry: [https://agentflow-enterprise.com/acquisition](https://agentflow-enterprise.com/acquisition)
-- Contact: [contact@agentflow-enterprise.com](mailto:contact@agentflow-enterprise.com)
+- [Product Overview](PRODUCT_OVERVIEW.md)
+- [Features](FEATURES.md)
+- [FAQ](FAQ.md)
+- [Technical Due Diligence](TECHNICAL_DUE_DILIGENCE.md)
+- [Security Posture](SECURITY_POSTURE.md)
+- [Buyer Information](BUYER_INFORMATION.md)
+- [Roadmap](ROADMAP.md)
+- [Contact](CONTACT.md)
+- [Docs index](docs/overview.md)
 
 ## What This Repository Includes
 
-- Product overview
-- Feature summary
-- Buyer-safe FAQ
-- High-level technical due diligence notes
-- Security posture summary
-- Buyer evaluation guidance
-- Roadmap
-- Changelog
-- Contact information
-- Public showcase license
-- Security disclosure guidance
-- Asset usage guide
+- Buyer-facing product narrative
+- Enterprise FAQ
+- High-level technical due diligence guidance
+- Security posture overview
+- Buyer and acquisition evaluation path
+- Honest roadmap and verification boundaries
+- Asset guidance for public-safe visuals
+- GitHub issue template for serious buyer inquiries
 
-## What This Repository Excludes
+## What This Repository Intentionally Excludes
 
-This repository intentionally excludes:
-
-- Sensitive source code
+- Private source code
 - Backend logic
-- API route code or route naming
-- Secrets, tokens, keys, or credentials
-- Environment files
-- Database migrations or schema
+- API route names or internals
+- Database schema
 - Checkout internals
 - Webhook handler code
-- Supabase project details
-- Private implementation structure
-- Deployment secrets or operational runbooks
+- Secrets, credentials, or deployment configuration
+- Supabase private project details
+- Operational runbooks
+- Security control internals
 
-## Evaluation Note
+## Evaluation Guidance
 
-This repository is suitable for public discovery and early buyer review. Serious technical, acquisition, or partnership evaluation should occur through a private diligence process with appropriate access controls, confidentiality terms, and security boundaries.
+Use this public repository for first-pass review. Serious licensing, agency deployment, technical review, or acquisition conversations should move into a controlled private diligence process with appropriate confidentiality terms.
 

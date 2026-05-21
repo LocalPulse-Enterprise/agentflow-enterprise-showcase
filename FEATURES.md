@@ -1,32 +1,19 @@
 # Features
 
-This document describes AgentFlow Enterprise at a product-capability level only. It avoids private implementation details, internal file structure, API names, database structure, and security-sensitive logic.
+This feature matrix is intentionally honest. It separates public status, buyer meaning, and verification still needed before stronger commercial claims.
 
-## AI RevOps Workflow Support
-
-AgentFlow Enterprise is positioned around AI-assisted workflows for revenue operations teams. The product direction focuses on helping teams identify next actions, structure operational context, and reduce repetitive coordination work.
-
-## Buyer-Facing SaaS Experience
-
-The product is designed to present as a professional SaaS experience for demos, buyer evaluation, and acquisition discussion. Public-facing documentation and product positioning are treated as part of the asset, not an afterthought.
-
-## Operational Clarity
-
-AgentFlow Enterprise is intended to help users reason about revenue workflows, customer operations, and execution priorities in a more structured way.
-
-## Technical Evaluation Readiness
-
-The product is positioned for private technical review by qualified buyers, developers, or acquisition evaluators. This public repository provides the non-sensitive overview layer before deeper diligence.
-
-## Security-Conscious Presentation
-
-The showcase documentation is built to communicate security principles without exposing internals that could assist misuse.
-
-## Acquisition and Partnership Path
-
-This repository includes buyer information, due diligence guidance, and contact paths for acquisition, partnership, or licensing discussions.
-
-## Readiness Boundaries
-
-Capabilities described here should be treated as high-level product and documentation scope unless privately verified. Production claims, security certifications, customer metrics, and financial performance are not asserted in this repository.
+| Area | Public Status | Buyer Meaning | Verification Needed |
+| --- | --- | --- | --- |
+| Public marketing site | Presented publicly | Buyers can understand positioning and product category. | Confirm live pages, messaging accuracy, and conversion path. |
+| Public demo | Available for evaluation | Buyers can inspect the intended workflow experience. | Confirm demo behavior under realistic scenarios. |
+| AI qualification | Product foundation direction | The platform is built around AI-assisted lead evaluation. | Verify provider behavior, cost, quality, and data handling. |
+| Protected dashboard | Production-conscious design area | Operator review and protected workflows are part of the product concept. | Verify authentication behavior and access boundaries privately. |
+| Billing readiness | Checkout-ready direction | The product is designed with monetization readiness in mind. | Verify live payment behavior before commercial claims. |
+| Supabase auth/data foundation | High-level foundation stated | Buyers can expect a modern auth/storage foundation. | Verify configuration, data boundaries, and deployment evidence privately. |
+| Webhook safety | Security principle stated | Provider events are treated as trust-boundary events. | Verify signature handling and event processing evidence privately. |
+| Documentation | Publicly available | Buyer review can begin without private system access. | Keep docs aligned with verified product state. |
+| Acquisition readiness | Publicly prepared | The asset is packaged for acquisition or licensing conversation. | Verify ownership, transfer scope, and private technical evidence. |
+| Monitoring readiness | Readiness area | Operational visibility is recognized as important. | Verify Sentry staging evidence and alerting expectations. |
+| Google Calendar/Sheets readiness | Future workflow opportunity | Useful for agency and RevOps automation use cases. | Verify implementation only if prioritized. |
+| Customer proof | Not claimed | No fake traction is asserted. | Obtain first pilot/customer evidence before revenue claims. |
 

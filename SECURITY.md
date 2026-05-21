@@ -1,21 +1,21 @@
 # Security
 
-This public showcase repository contains documentation only. It does not include secrets, environment files, backend logic, API route code, database schema, webhook handlers, checkout internals, deployment credentials, or private implementation details.
+This public showcase repository contains documentation only. It does not include private source code, credentials, deployment configuration, backend logic, database structure, checkout internals, webhook handlers, or operational procedures.
 
 ## Reporting a Security Concern
 
-Please report security concerns to [contact@agentflow-enterprise.com](mailto:contact@agentflow-enterprise.com).
+Report security concerns to [contact@agentflow-enterprise.com](mailto:contact@agentflow-enterprise.com).
 
-Include:
+Please include:
 
 - A clear summary of the concern
 - The affected public file or page, if applicable
 - Reproduction steps if relevant
-- Any recommended remediation
+- Recommended remediation, if known
 
-Please avoid public disclosure until the issue has been reviewed.
+Do not submit sensitive vulnerabilities, credentials, private implementation details, or confidential findings through public GitHub issues.
 
-## Scope
+## Public Repository Scope
 
 In scope for this public repository:
 
@@ -30,5 +30,9 @@ Out of scope for this public repository:
 - Attempts to bypass access controls
 - Social engineering
 - Attacks against third-party services
-- Speculative reports without a practical impact
+- Speculative reports without practical impact
+
+## Bug Bounty Status
+
+There is no public bug bounty program currently.
 

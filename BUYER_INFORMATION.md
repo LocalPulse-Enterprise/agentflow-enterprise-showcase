@@ -1,54 +1,90 @@
 # Buyer Information
 
-AgentFlow Enterprise is positioned for buyers who want to evaluate an AI RevOps SaaS product without first receiving sensitive code or private system access.
+AgentFlow Enterprise is positioned for buyers who want a serious AI RevOps SaaS foundation with public-safe documentation and a controlled path into private technical diligence.
 
-## Buyer Profiles
+## Who Should Consider AgentFlow
 
-Likely buyer profiles include:
+AgentFlow may be relevant for:
 
-- Agencies seeking a premium AI RevOps product offering
-- RevOps consultants looking for a productized platform opportunity
-- Technical founders interested in acquiring or extending an AI SaaS product
-- Senior developers evaluating maintainability and product direction
-- Strategic buyers assessing category fit
+- Agencies building AI RevOps packages for clients
+- SaaS founders looking for a post-build foundation to commercialize
+- RevOps consultants creating repeatable qualification workflows
+- Senior developers evaluating a modern SaaS asset
+- Technical acquirers seeking a product foundation before revenue validation
+- Strategic buyers interested in AI-assisted lead qualification and workflow automation
 
-## How to Evaluate
+## Public Materials Available
 
-Recommended first-pass review:
+Public materials include:
 
-- Read the product overview and feature summary
-- Review the FAQ for buyer-safe scope
-- Check the roadmap for implemented, verification-needed, and planned areas
-- Review the security posture document
-- Identify private diligence questions
-- Use the contact path for acquisition or partnership discussion
+- Product overview
+- Enterprise FAQ
+- Feature matrix
+- Technical due diligence framework
+- Security posture summary
+- Roadmap and verification boundaries
+- Contact and acquisition path
+- Asset guidance
+- GitHub buyer inquiry template
 
-## Private Diligence Path
+## Private Materials After NDA
 
-Qualified buyers may request a private review that can include controlled access to technical materials, product walkthroughs, and readiness discussions. Any private review should use appropriate confidentiality terms and access controls.
+For qualified buyers, private review may include:
 
-## What Not to Expect From This Repository
+- Source review
+- Product walkthrough
+- Deployment evidence
+- Provider-side evidence where appropriate
+- Payment and webhook verification evidence
+- Access-control explanation
+- Known-risk discussion
+- Transition or licensing plan
 
-This repository does not provide enough information to clone, operate, attack, or reproduce the private product. It is not a replacement for controlled technical diligence.
+Private materials should be shared only after appropriate confidentiality terms.
 
-## Evaluation Criteria
+## What a Buyer Should Verify
 
-Buyers should evaluate:
+Buyers should verify:
 
-- Product category clarity
-- Market and buyer fit
-- Quality of presentation
-- Feature readiness
-- Technical maintainability
-- Security posture
-- Operational maturity
-- Remaining verification work
-- Commercial fit and acquisition terms
+- Workflow completeness
+- Live demo behavior
+- Payment readiness
+- Provider configuration status
+- Authentication and protected dashboard behavior
+- AI qualification quality
+- Webhook safety evidence
+- Monitoring readiness
+- Commercial readiness
+- Customer or pilot status
+- Legal ownership and transfer scope
+
+## What Is Not Claimed
+
+This repository does not claim:
+
+- Paying customers
+- Recurring revenue
+- Enterprise adoption
+- SOC 2 certification
+- ISO certification
+- Formal penetration testing
+- Guaranteed production readiness
+- Guaranteed customer demand
+
+## Recommended Evaluation Path
+
+1. Review the public showcase.
+2. Try the live demo.
+3. Review the website acquisition page.
+4. Request a private technical pack.
+5. Conduct a technical walkthrough.
+6. Verify provider-side evidence.
+7. Discuss acquisition, licensing, or agency deployment terms.
 
 ## Contact
 
 - Website: [https://agentflow-enterprise.com](https://agentflow-enterprise.com)
 - Demo: [https://agentflow-enterprise.com/demo](https://agentflow-enterprise.com/demo)
-- Acquisition inquiry: [https://agentflow-enterprise.com/acquisition](https://agentflow-enterprise.com/acquisition)
+- Acquisition page: [https://agentflow-enterprise.com/acquisition](https://agentflow-enterprise.com/acquisition)
 - Email: [contact@agentflow-enterprise.com](mailto:contact@agentflow-enterprise.com)
 

@@ -1,57 +1,65 @@
 # Roadmap
 
-This roadmap separates public-facing product/documentation status from private implementation verification. It avoids internal implementation detail.
+This roadmap is intentionally honest and does not invent dates, customers, revenue, certifications, or enterprise adoption. Labels indicate maturity stage rather than fixed delivery commitments.
 
-## Implemented
+## Current
 
-Public showcase layer:
+Current public and product-facing status:
 
-- Product positioning
-- Buyer-safe overview documentation
-- Feature summary
-- FAQ for technical and non-technical reviewers
-- High-level due diligence guidance
-- Security posture summary
-- Buyer information
-- Contact and acquisition paths
-- Public repository safety boundary
+- Public marketing site
+- Public demo flow
+- AI-assisted lead qualification direction
+- Protected dashboard operations concept
+- Supabase authentication/storage foundation
+- Stripe/PayPal checkout readiness
+- OpenAI-powered qualification flow
+- Vercel deployment posture
+- Webhook safety principles
+- Buyer due-diligence documentation
+- SEO acquisition pages for agencies, developers, and potential acquirers
 
-Product-level capabilities represented at a high level:
+## Next Verification Phase
 
-- AI RevOps SaaS positioning
-- Workflow automation direction
-- Buyer-facing demo and evaluation intent
-- Acquisition-ready documentation structure
+Before stronger commercial claims, the next phase should verify:
 
-## Verification Needed
-
-The following areas should be verified privately before production claims, acquisition closing, client deployment, or commercial reliance:
-
-- End-to-end product workflows
-- Authentication and authorization behavior
-- Payment and subscription flows
-- Third-party integration behavior
-- Deployment readiness
-- Monitoring and observability
-- Error handling
+- Stripe live-mode verification
+- Sentry staging verification
+- Payment flow evidence across expected states
+- Webhook event evidence under realistic conditions
+- Provider configuration review
+- Authentication and protected dashboard behavior
+- AI qualification quality and cost expectations
+- Deployment observability
 - Data handling assumptions
-- Security review
-- Test coverage
-- Legal and compliance requirements
+- Support and incident response expectations
 
-## Planned
+## After First Pilot/Customer
 
-Potential next areas for expansion:
+After the first pilot or customer, the roadmap should focus on evidence and repeatability:
 
-- Expanded demo materials
-- Product screenshots or guided walkthrough assets
-- Private diligence checklist for qualified buyers
-- Agency implementation guide
-- RevOps consultant enablement pack
-- Buyer onboarding package
-- Case-study template for future verified customers
-- Security review summary after independent assessment
-- Production readiness checklist after verification
+- First pilot/customer proof
+- Documented onboarding process
+- Real feedback from qualified users
+- Clearer qualification rules
+- Conversion and follow-up insights
+- Support playbook based on actual usage
+- Pricing and packaging evidence
+- Stronger buyer-facing demo assets
+- Demo video based on verified workflows
 
-No planned item should be interpreted as complete until separately verified.
+## Future Opportunities
+
+Potential expansion areas:
+
+- Deeper dashboard decomposition
+- Optional Google Calendar workflow implementation
+- Optional Google Sheets workflow implementation
+- Stronger visual assets and product walkthroughs
+- Agency implementation package
+- Developer review pack
+- Private diligence room for serious buyers
+- Expanded CRM and operations handoff patterns
+- Role-specific dashboards for agency, founder, and RevOps use cases
+
+Future opportunities should not be treated as complete until separately implemented and verified.
 
