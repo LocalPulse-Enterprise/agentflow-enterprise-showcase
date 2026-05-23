@@ -1,6 +1,8 @@
 # AgentFlow Enterprise
 ![AgentFlow Enterprise — AI RevOps Infrastructure](public/images/agentflow-enterprise-hero.png)
 
+![AgentFlow Enterprise — AI RevOps Infrastructure](public/images/agentflow-enterprise-hero.png)
+
 AI RevOps SaaS foundation for lead qualification, secure workflow automation, and buyer-ready technical due diligence.
 
 AgentFlow Enterprise helps agencies, SaaS founders, and RevOps teams move from disconnected lead forms and manual qualification to a structured workflow: lead intake, AI-assisted scoring, operator review, billing readiness, and CRM/integration handoff.
