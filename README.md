@@ -1,5 +1,4 @@
 # AgentFlow Enterprise
-![AgentFlow Enterprise — AI RevOps Infrastructure](public/images/agentflow-enterprise-hero.png)
 
 ![AgentFlow Enterprise — AI RevOps Infrastructure](public/images/agentflow-enterprise-hero.png)
 
