@@ -114,3 +114,4 @@ Important limits:
 
 Use this public repository for first-pass review. Serious licensing, agency deployment, technical review, or acquisition conversations should move into a controlled private diligence process with appropriate confidentiality terms.
 
+[![Listed on Plug Your Build](https://plugyourbuild.com/api/badge/agentflow-enterprise-0587e0?style=dark)](https://plugyourbuild.com/listing/agentflow-enterprise-0587e0)
