@@ -211,7 +211,7 @@ posture:   ACQUISITION_READY // PRE_REVENUE // BUYER_DOCUMENTED
 
 [![OpenCollective](https://img.shields.io/badge/🔷_OPEN_COLLECTIVE-AgentFlow_Enterprise-3385FF?style=for-the-badge&labelColor=000000&logo=opencollective&logoColor=3385FF)](https://opencollective.com/agentflow-enterprise)
 
-[![Liberapay](https://img.shields.io/badge/💛_LIBERAPAY-AgentFlow_Research_Fund-F6C915?style=for-the-badge&labelColor=000000&logo=liberapay&logoColor=F6C915)](https://liberapay.com/AgentFlow/identity)
+[![Liberapay](https://img.shields.io/badge/💛_LIBERAPAY-AgentFlow_Research_Fund-F6C915?style=for-the-badge&labelColor=000000&logo=liberapay&logoColor=F6C915)](https://liberapay.com/AgentFlow/)
 
 [![PayPal](https://img.shields.io/badge/💳_PAYPAL-Direct_Transfer-00457C?style=for-the-badge&labelColor=000000&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/AGENTFLOWENTERPRISE)
 
